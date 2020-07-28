@@ -6,6 +6,7 @@ very wip -- zvgamemail@gmail.com
 
 On Windows you should just be able to use Run.bat to play
 otherwise just run main.py in the terminal
+within the extracted directory
 
 windows:
 'py main.py'

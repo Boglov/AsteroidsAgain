@@ -25,7 +25,7 @@ DISPLAY_CENTER = pygame.Vector2(DISPLAY_WIDTH/2, DISPLAY_HEIGHT/2)
 
 FramePerSec = pygame.time.Clock()
 gameSurface = pygame.display.set_mode((DISPLAY_WIDTH, DISPLAY_HEIGHT))
-pygame.display.set_caption("My Python Project")
+pygame.display.set_caption("Asteroids Again")
 
 font1 = pygame.font.Font('freesansbold.ttf', 32)
 scoreText = font1.render('Score: ', True, WHITE, BLACK)

@@ -1,4 +1,3 @@
 @ECHO OFF 
-py "F:\Python Projects\Asteroids\main.py"
-PAUSE
+py "main.py"
 @ECHO ON

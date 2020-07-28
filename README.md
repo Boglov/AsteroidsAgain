@@ -1,6 +1,7 @@
 # AsteroidsAgain
 WIP asteroids remake
-very wip -- zvgamemail@gmail.com 
+very wip -- zvgamemail@gmail.com
+
 *Requires pygame -- obvs
 
 
